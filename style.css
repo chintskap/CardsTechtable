@@ -301,12 +301,7 @@ a:focus {
   padding-bottom: calc(100% - 16px);
   margin-bottom: 6.6em;
 }
-.card-container .container{
-  display:flex;
-}
-.material-card Red{
-  border-radius: 20px;
-}
+
 .material-card h2 {
   position: absolute;
   top: calc(100% - 16px);
